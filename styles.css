@@ -1,0 +1,98 @@
+.color-primary-0 { color: #AA4A39 }
+.color-primary-1 { color: #FFB7AA }
+.color-primary-2 { color: #D47B6A }
+.color-primary-3 { color: #802615 }
+.color-primary-4 { color: #550D00 }
+
+.bg-color-1 {
+    background-color: #FFB7AA;
+}
+
+.bg-color-4 {
+    background-color: #550D00;
+}
+
+.btn-outline-primary {
+    color: #550D00;
+    border-color: #550D00;
+    background-color: #FFB7AA;
+}
+
+.btn-outline-primary:hover, .btn-outline-primary:focus, .btn-outline-primary:active, .btn-outline-primary.active, .open>.dropdown-toggle.btn-outline-primary {
+    color: #FFB7AA;
+    background-color: #550D00;
+    border-color: black;
+}
+
+.row-no-padding {
+      padding-left: 0 !important;
+      padding-right: 0 !important;
+      margin-left: 0 !important;
+      margin-right: 0 !important;
+    }
+
+#xean-photo {
+    padding: 3rem;
+    background-color: #FFB7AA;
+    border: 0;
+    width: 75%;
+    height: 75%;
+
+}
+
+.navbar {
+    position: sticky;
+}
+
+body {
+    font-family: 'Open Sans', sans-serif;
+}
+
+.padding-top {
+    padding-top: 2.5rem;
+    padding-bottom: 2.5rem;
+}
+
+.margin-top {
+    margin-top: 2rem;
+}
+
+p {
+    font-size: 1.25rem;
+}
+
+li {
+    font-size: 1.25rem;
+}
+h2 {
+    font-size: 3rem;
+}
+h3 {
+    font-size: 2rem;
+    padding-bottom: 0.25rem;
+}
+
+#intro-paragraph {
+    padding-right: 1rem;
+    padding-left: 0.5rem;
+}
+
+.card-text {
+    font-size: 1rem;
+}
+
+#contact-email {
+    color: #550D00;
+}
+
+.bg-light {
+    background-color: #FFB7AA!important;
+}
+
+.navbar-light .navbar-nav .nav-link .navbar-brand{
+    color: #550D00!important;
+}
+
+.navbar-light .navbar-brand {
+    color: #550D00;
+}
