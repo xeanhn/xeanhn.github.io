@@ -50,6 +50,8 @@ body {
 
 .padding-top {
     padding-top: 2.5rem;
+}
+.padding-bottom {
     padding-bottom: 2.5rem;
 }
 
@@ -96,3 +98,12 @@ h3 {
 .navbar-light .navbar-brand {
     color: #550D00;
 }
+
+.inline {
+    display: inline-block;
+}
+
+.w-1000 {
+    width: 100% !important;
+    height: 75vh;
+  }
